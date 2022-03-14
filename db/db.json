@@ -1,1 +1,1 @@
-[{"title":"Test Title"},{"title":"Hello World","text":"This is a new Note!\n"},{"title":"This is yet another note.","text":"A new note."}]
+[{"title":"Test Title"},{"title":"This is a new note!","text":"hello world!","id":"1"},{"title":"This note rocks!","text":"Hello!","id":"2"}]

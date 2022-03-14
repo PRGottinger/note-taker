@@ -23,6 +23,7 @@ app.get("/", (req, res) => {
 });
 
 app.post("/api/notes", (req, res) => {
+  req.body.id = db.length.toString();
   db.push(req.body);
 
   fs.writeFile("./db/db.json", JSON.stringify(db), () => {
