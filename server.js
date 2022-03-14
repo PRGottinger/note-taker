@@ -24,6 +24,7 @@ app.get("/", (req, res) => {
 
 app.post("/api/notes", (req, res) => {
   db.push(req.body);
+
   fs.writeFile("./db/db.json", JSON.stringify(db), () => {
     console.log(req.body);
     res.json(req.body);
