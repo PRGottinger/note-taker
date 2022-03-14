@@ -12,7 +12,7 @@ This project requires node and inquirer and runs through the terminal
 
 This project requires the user to give input to questions in the terminal
 
-Here is a video walking through how to use the program: https://drive.google.com/file/d/1Cpn8rwZMuFhBKxyN9ximQj8xoIP_6q7x/view
+Here is a video walking through how to use the program: https://drive.google.com/file/d/1iR7XTT04L0_ahJDvDs_NEltJsx1-pY02/view
 
 ## Contributing
 
